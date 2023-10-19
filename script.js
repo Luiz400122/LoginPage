@@ -8,6 +8,7 @@ var janela = document.querySelector('.janela')
 
 var x= 0;
 
+
 user.addEventListener('keypress', ()=>{
     let x = user.value.length
 
