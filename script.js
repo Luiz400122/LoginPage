@@ -6,7 +6,7 @@ var bt = document.querySelector('.subt');
 var modal = document.querySelector('.modal')
 var janela = document.querySelector('.janela')
 
-
+var x= 0;
 
 user.addEventListener('keypress', ()=>{
     let x = user.value.length
